@@ -43,6 +43,7 @@ function loadChekList(cardid, dataBase) {
     })
     randomizer(elementCardQestion);
     dragDrop();
+    btnChek.classList.remove('visible')
 }
 
 btnChek.addEventListener('click', function () {
@@ -60,7 +61,7 @@ function getAnswer() {
         }
         i++;
     })
-
+    btnChek.classList.add('visible')
 }
 
 function dragDrop() {
