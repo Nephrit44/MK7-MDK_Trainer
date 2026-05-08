@@ -50,6 +50,7 @@ h1 {
 
 .cheklistCollection {
     display: flex;
+    justify-content: center;
     gap: 5px;
     flex-wrap: wrap;
 }
@@ -73,6 +74,14 @@ h1 {
 
 .cheklist__item:hover {
     transform: scale(1.2);
+}
+
+.cheklist-title {
+    text-align: center;
+}
+
+.cheklist-subtitle {
+    text-align: center;
 }
 
 .text {
@@ -103,14 +112,12 @@ h1 {
     cursor: pointer;
     background-color: #dcecf5;
     width: 150px;
-    height: 150px;
     text-align: center;
     font-size: 12px;
 }
 
 .qestions__item--inline {
-    width: auto;
-    height: auto;
+    width: auto;    
     text-align: left;
 }
 
