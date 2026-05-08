@@ -5,6 +5,10 @@ const getTemplateCard = document.querySelector('#card');
 const getTemplateQestions = document.querySelector('#qestions');
 
 const btnChek = document.querySelector('.btnChek');
+const chekTitle = document.querySelector('.cheklist-title');
+const elemHeader = document.querySelector('.header');
+
+const btnChangeStyle = document.querySelector('.changeStyle');
 
 cardCollection.forEach((element) => {
     let newElement = getTemplateCard.content.cloneNode(true); //Клонируем
@@ -16,7 +20,7 @@ cardCollection.forEach((element) => {
 document.addEventListener('click', function (evt) {
     if (evt.target.classList.contains('cheklist__item')) {
         elementForChekList.classList.add('visible');
-        loadChekList(evt.target.getAttribute('cardid'), dbQestions, elementCardQestion);
+        loadChekList(evt.target.getAttribute('cardid'), dbQestions, evt.target.textContent);
     }
 })
 
@@ -31,7 +35,10 @@ function randomizer(elementForRandomize) {
 
 randomizer(elementForChekList);
 
-function loadChekList(cardid, dataBase) {
+function loadChekList(cardid, dataBase, cheklistTitle) {
+    chekTitle.textContent = cheklistTitle;
+    chekTitle.classList.remove('visible');
+    elemHeader.classList.remove('visible');
     dataBase.forEach((element) => {
         if (element.cardID == cardid) {
             let newElement = qestions.content.cloneNode(true); //Клонируем
@@ -67,7 +74,6 @@ function getAnswer() {
 function dragDrop() {
     const list = document.getElementById('draggableList');
     const items = list.querySelectorAll('.qestions__item');
-
     items.forEach(item => {
         item.setAttribute('draggable', 'true');
 
@@ -102,3 +108,11 @@ function dragDrop() {
         });
     });
 };
+
+btnChangeStyle.addEventListener('click', function () {
+    const qestions__item = document.querySelectorAll('.qestions__item');
+    elementCardQestion.classList.toggle('cardQestions--inline');
+    qestions__item.forEach((element) => {
+        element.classList.toggle('qestions__item--inline');
+    })
+})

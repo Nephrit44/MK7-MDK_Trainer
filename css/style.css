@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
 * {
     box-sizing: border-box;
 }
@@ -5,6 +7,7 @@
 body {
     margin: 0;
     padding: 10px;
+    font-family: "Roboto Condensed", sans-serif;
 }
 
 ul {
@@ -22,9 +25,27 @@ p {
     margin: 0;
 }
 
+h1 {
+    margin: 0;
+}
+
 .container {
     max-width: 1000px;
     margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+    align-items: center;
+    padding: 10px;
+}
+
+
+.cheklist-subtitle {
+    font-size: 12px;
+    font-style: italic;
 }
 
 .cheklistCollection {
@@ -47,6 +68,7 @@ p {
     transition: all .3s;
     background-color: #dcecf5;
     cursor: pointer;
+    font-weight: 300;
 }
 
 .cheklist__item:hover {
@@ -69,6 +91,10 @@ p {
     max-width: 700px;
 }
 
+.cardQestions--inline {
+    flex-direction: column;
+}
+
 .qestions__item {
     padding: 6px 4px;
     border: 1px solid #ccc;
@@ -81,12 +107,26 @@ p {
     font-size: 12px;
 }
 
+.qestions__item--inline {
+    width: auto;
+    height: auto;
+    text-align: left;
+}
+
 .succes {
-    background-color: green;
+    background-color: rgb(185, 255, 185);
 }
 
 .falure {
-    background-color: red;
+    background-color: rgb(255, 163, 163);
+}
+
+.lable {
+    font-size: 10px;
+}
+
+.changeStyle {
+    font-size: 12px;
 }
 
 .btnChek {
