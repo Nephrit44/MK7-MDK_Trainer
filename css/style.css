@@ -157,3 +157,16 @@ h1 {
 .visible {
     display: none;
 }
+
+@media (width < 720px) {
+    .cardQestions {
+        padding: 15px;
+        gap: 10px;
+    }
+    .qestions__item {
+        width: 100%;
+    }
+    .lable {
+        display: none;
+    }
+}
