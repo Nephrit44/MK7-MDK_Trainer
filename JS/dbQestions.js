@@ -1594,5 +1594,407 @@ const dbQestions = [
     cardAction: "Выполнить",
     cardExemple: "Расправляем отворот левой перчатки, натянув ее на рукав, затем на правой с помощью 2-го и 3-го пальцев, подводя их под подвернутый край перчатки."
   },
+
+  //Чеклист 13
+
+  {
+    cardID: 13,
+    cardOrder: 1,
+    cardQestion: "Подготовить необходимые ресурсы",
+    cardAction: "Сказать",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 2,
+    cardQestion: "Снять украшения и часы с рук",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 3,
+    cardQestion: "Убедиться, что ногти коротко подстрижены, искусственных ногтей нет",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 4,
+    cardQestion: "Убедиться, что на руках и под ногтями нет следов грязи",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 5,
+    cardQestion: "Открыть кран, отрегулировать температуру и напор воды",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 6,
+    cardQestion: "Запустить отсчет времени",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 7,
+    cardQestion: "Увлажнить руки водой до локтевого сгиба",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 8,
+    cardQestion: "С помощью дозатора нанести на ладони достаточное количество жидкого мыла, чтобы покрыть всю поверхность руки",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 9,
+    cardQestion: "Потереть одну ладонь о другую ладонь возвратно-поступательными движениями",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 10,
+    cardQestion: "Правой ладонью растереть тыльную поверхность левой кисти, переплетая пальцы",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 11,
+    cardQestion: "Левой ладонью растереть тыльную поверхность правой кисти, переплетая пальцы",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 12,
+    cardQestion: "Соединить пальцы одной руки в межпальцевых промежутках другой, тереть внутренние поверхности пальцев движениями вверх и вниз",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 13,
+    cardQestion: "Поменять руки",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 14,
+    cardQestion: "Соединить пальцы в «замок», тыльной стороной согнутых пальцев растирать ладонь другой руки",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 15,
+    cardQestion: "Поменять руки",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 16,
+    cardQestion: "Охватить основание большого пальца левой кисти между большим и указательным пальцами правой кисти, провести вращательное трение",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 17,
+    cardQestion: "Провести вращательное трение на запястье пальцами правой кисти",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 18,
+    cardQestion: "Поменять руки",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 19,
+    cardQestion: "Охватить основание большого пальца правой кисти между большим и указательным пальцами левой кисти, провести вращательное трение",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 20,
+    cardQestion: "Провести вращательное трение на запястье пальцами левой кисти",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 21,
+    cardQestion: "Круговым движением тереть ладонь правой кисти кончиками пальцев левой руки",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 22,
+    cardQestion: "Поменять руки",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 23,
+    cardQestion: "Круговым движением тереть ладонь левой кисти кончиками пальцев правой руки",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 24,
+    cardQestion: "Намылить правое предплечье ладонной поверхностью левой кисти прямыми движениями поочередно от запястья до локтя, соблюдая технику намыливания,  ладонь скользит по наружной (внутренней) поверхности предплечья, сомкнутые пальцы кисти  по ребру предплечья",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 25,
+    cardQestion: "Поменять руки",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 26,
+    cardQestion: "Намылить левое предплечье ладонной поверхностью правой кисти прямыми движениями поочередно от запястья до локтя, соблюдая технику намыливания,  ладонь скользит по наружной (внутренней) поверхности предплечья, сомкнутые пальцы кисти  по ребру предплечья",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 27,
+    cardQestion: "Убедиться, что смываемая мыльная пена белоснежная",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 28,
+    cardQestion: "Проводить всю процедуру 2 минуты",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 29,
+    cardQestion: "Ополоснуть руки проточной водой для удаления мыльной пены от ногтевых фаланг до локтевого сгиба",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 30,
+    cardQestion: "Закрыть кран локтем",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 31,
+    cardQestion: "Насухо промокнуть руки (поочередно) стерильной тканевой салфеткой (с расчетом на одну руку), начиная с кончиков пальцев  по направлению к локтевому сгибу",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 32,
+    cardQestion: "Поместить салфетки в отходы класса А",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 33,
+    cardQestion: "Нанести необходимое количество кожного антисептика согласно инструкции к антисептическому средству на ладонь левой руки, используя локоть правой руки для управления дозатором",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 34,
+    cardQestion: "Погрузить в средство кончики пальцев правой руки для обеззараживания подногтевых пространств",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 35,
+    cardQestion: "Распределить средство по всей поверхности правого предплечья круговыми движениями до высыхания средства (1015 секунд)",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 36,
+    cardQestion: "Нанести необходимое количество кожного антисептика согласно инструкции к антисептическому средству на ладонь правой руки, используя локоть левой руки для управления дозатором",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 37,
+    cardQestion: "Погрузить в средство кончики пальцев левой руки для обеззараживания подногтевых пространств",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 38,
+    cardQestion: "Распределить средство по всей поверхности левого предплечья круговыми движениями до высыхания средства (1015 секунд)",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 39,
+    cardQestion: "Нанести необходимое количество кожного антисептика согласно инструкции к антисептическому средству  ладонь левой руки, используя локоть правой руки для управления дозатором",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 40,
+    cardQestion: "Обработать руки до запястья в течение 30 секунд",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 41,
+    cardQestion: "Повторить каждое движение 5 раз",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 42,
+    cardQestion: "Нанести средство на всю поверхность кистей рук до запястья и круговыми движениями растереть средство",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 43,
+    cardQestion: "Обработать тыльную сторону левой кисти, включая запястье, двигая правую ладонь вперед-назад",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 44,
+    cardQestion: "Поменять руки",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 45,
+    cardQestion: "Обработать тыльную сторону правой кисти, включая запястье, двигая левую ладонь вперед-назад",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 46,
+    cardQestion: "Переплести пальцы и тереть внутренние поверхности пальцев и межпальцевые промежутки движениями вверх-вниз",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 47,
+    cardQestion: "Соединить пальцы в «замок», тыльной стороной согнутых пальцев левой руки растирать ладонь правой руки движениями вперед и назад",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 48,
+    cardQestion: "Поменять руки",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 49,
+    cardQestion: "Соединить пальцы в «замок», тыльной стороной согнутых пальцев правой руки растирать ладонь левой руки движениями вперед и назад",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 50,
+    cardQestion: "Охватить большой палец левой руки правой ладонью и потереть его круговыми движениями",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 51,
+    cardQestion: "Поменять руки",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 52,
+    cardQestion: "Охватить большой палец правой руки левой ладонью и потереть его круговыми движениями",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 53,
+    cardQestion: "Тереть ладонь левой кисти кончиками пальцев правой руки круговыми движениями",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 54,
+    cardQestion: "Поменять руки",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 55,
+    cardQestion: "Тереть ладонь правой кисти кончиками пальцев левой руки круговыми движениями",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 56,
+    cardQestion: "Втирать антисептик до полного высыхания рук",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 13,
+    cardOrder: 57,
+    cardQestion: "Кисти рук держать выше локтевых сгибов на уровне груди",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
 ];
 
