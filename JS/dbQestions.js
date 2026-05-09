@@ -1996,7 +1996,7 @@ const dbQestions = [
     cardAction: "Выполнить",
     cardExemple: ""
   },
-  
+
   //Чеклист 14
 
   {
@@ -2083,6 +2083,183 @@ const dbQestions = [
     cardAction: "Выполнить",
     cardExemple: ""
   },
-  
+
+  //Чеклист 15
+
+  {
+    cardID: 15,
+    cardOrder: 1,
+    cardQestion: "Удалить и утилизировать медицинские отходы",
+    cardAction: "Сказать",
+    cardExemple: ""
+  },
+  {
+    cardID: 15,
+    cardOrder: 2,
+    cardQestion: "Подготовить СИЗ (перчатки, маски, медицинские шапочки, резиновые перчатки, халат)",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 15,
+    cardOrder: 3,
+    cardQestion: "Подготовить ветошь",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 15,
+    cardOrder: 4,
+    cardQestion: "Подготовить уборочный инвентарь",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 15,
+    cardOrder: 5,
+    cardQestion: "Подготовить ведро для мытья пола",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 15,
+    cardOrder: 6,
+    cardQestion: "Подготовить емкость для обработки поверхностей",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 15,
+    cardOrder: 7,
+    cardQestion: "Подготовить моющие и дезинфицирующие средства, разрешенные к применению в Российской Федерации",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 15,
+    cardOrder: 8,
+    cardQestion: "Подготовить емкость для дезинфицирующего раствора для обработки использованного уборочного инвентаря",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 15,
+    cardOrder: 9,
+    cardQestion: "Если уборка проводится в палате, предупредить пациентов",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 15,
+    cardOrder: 10,
+    cardQestion: "Обработать руки гигиеническим способом, осушить",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 15,
+    cardOrder: 11,
+    cardQestion: "Надеть СИЗ (перчатки, маски, медицинские шапочки, резиновые перчатки, халат)",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 15,
+    cardOrder: 12,
+    cardQestion: "Подготовить рабочий раствор дезинфицирующего средства",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 15,
+    cardOrder: 13,
+    cardQestion: "Взять приготовленную емкость с дезинфицирующим рабочим раствором и ветошь для обработки поверхностей",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 15,
+    cardOrder: 14,
+    cardQestion: "Смочить чистую ветошь в рабочем растворе, приготовленном для обработки поверхностей. Провести уборку по принципу «от чистого к грязному»",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 15,
+    cardOrder: 15,
+    cardQestion: "Выдержать раствор на поверхности в течение времени, рекомендованного производителем средства в инструкции",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 15,
+    cardOrder: 16,
+    cardQestion: "Если дезинфицирующий раствор требует смывания, переодеться в чистый халат и чистой ветошью, смоченной водопроводной водой, отмыть все поверхности от дезинфицирующего средства",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 15,
+    cardOrder: 17,
+    cardQestion: "Взять ведро с приготовленным дезинфицирующим средством, швабру и ветошь (МОП) для обработки пола",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 15,
+    cardOrder: 18,
+    cardQestion: "Вымыть пол по принципу «от чистого к грязному»",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 15,
+    cardOrder: 19,
+    cardQestion: "Уборку туалетных комнат и душевых в палатах провести в последнюю очередь",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 15,
+    cardOrder: 20,
+    cardQestion: "Провести «кварцевание» помещения",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 15,
+    cardOrder: 21,
+    cardQestion: "Провести обеззараживание уборочного инвентаря",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 15,
+    cardOrder: 22,
+    cardQestion: "Тщательно высушить уборочный инвентарь",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 15,
+    cardOrder: 23,
+    cardQestion: "Убрать уборочный инвентарь в место хранения",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 15,
+    cardOrder: 24,
+    cardQestion: "Снять средства индивидуальной защиты, поместить их в отходы класса Б",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 15,
+    cardOrder: 25,
+    cardQestion: "Обработать руки гигиеническим способом",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
 ];
 
