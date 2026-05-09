@@ -2334,5 +2334,85 @@ const dbQestions = [
     cardAction: "Выполнить",
     cardExemple: ""
   },
+
+  //Чеклист 17
+
+  {
+    cardID: 17,
+    cardOrder: 1,
+    cardQestion: "Обработать руки гигиеническим способом",
+    cardAction: "Сказать",
+    cardExemple: ""
+  },
+  {
+    cardID: 17,
+    cardOrder: 2,
+    cardQestion: "Надеть шапочку и одноразовую маску",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 17,
+    cardOrder: 3,
+    cardQestion: "Подготовить необходимое оснащение",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 17,
+    cardOrder: 4,
+    cardQestion: "Проверить сроки стерилизации и герметичность упаковки халата",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 17,
+    cardOrder: 5,
+    cardQestion: "Вскрыть упаковку халата.",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 17,
+    cardOrder: 6,
+    cardQestion: "Извлечь халат из упаковки",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 17,
+    cardOrder: 7,
+    cardQestion: "Упаковку от халата поместить в отходы класса А",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 17,
+    cardOrder: 8,
+    cardQestion: "Расправить халат.",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 17,
+    cardOrder: 9,
+    cardQestion: "Завести поочередно кисти рук в отверстия для рукавов",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 17,
+    cardOrder: 10,
+    cardQestion: "Вытянуть руки вперед и в стороны, дать халату полностью расправиться",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 17,
+    cardOrder: 11,
+    cardQestion: "Зафиксировать сзади застежки-липучки на горловине халата, подтянуть и завязать тесемки внутри халата на спине, завязать тесемки халата спереди и слева. Примечание: Кисти рук держать выше локтевых сгибов",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
 ];
 
