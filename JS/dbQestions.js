@@ -2261,5 +2261,78 @@ const dbQestions = [
     cardAction: "Выполнить",
     cardExemple: ""
   },
+
+  //Чеклист 16
+
+  {
+    cardID: 16,
+    cardOrder: 1,
+    cardQestion: "Подготовить необходимое оснащение (упаковку с нестерильными перчатками и антисептик)",
+    cardAction: "Сказать",
+    cardExemple: ""
+  },
+  {
+    cardID: 16,
+    cardOrder: 2,
+    cardQestion: "Обработать руки гигиеническим способом",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 16,
+    cardOrder: 3,
+    cardQestion: "Достать перчатку из коробки",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 16,
+    cardOrder: 4,
+    cardQestion: "Касаться только верхнего края перчатки",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 16,
+    cardOrder: 5,
+    cardQestion: "Надеть первую перчатку",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 16,
+    cardOrder: 6,
+    cardQestion: "Достать вторую перчатку рукой без перчатки",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 16,
+    cardOrder: 7,
+    cardQestion: "Касаться только верхнего края перчатки",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 16,
+    cardOrder: 8,
+    cardQestion: "Вывернуть наружную поверхность второй перчатки так, чтобы она была надета на согнутые пальцы первой руки (которая уже в перчатке)",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 16,
+    cardOrder: 9,
+    cardQestion: "Надеть вторую перчатку",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 16,
+    cardOrder: 10,
+    cardQestion: "После того, как перчатки надеты, не прикасаться к загрязненным поверхностям, чтобы не менять перчатки",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
 ];
 
