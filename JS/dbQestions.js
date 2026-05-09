@@ -1996,5 +1996,93 @@ const dbQestions = [
     cardAction: "Выполнить",
     cardExemple: ""
   },
+  
+  //Чеклист 14
+
+  {
+    cardID: 14,
+    cardOrder: 1,
+    cardQestion: "Подготовить все необходимое оснащение",
+    cardAction: "Сказать",
+    cardExemple: ""
+  },
+  {
+    cardID: 14,
+    cardOrder: 2,
+    cardQestion: "При загрязнении перчаток выделениями, кровью во избежании загрязнения рук в процессе их снятия следует обработать салфеткой, смоченной раствором дезинфицирующего средства",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 14,
+    cardOrder: 3,
+    cardQestion: "Поместить салфетку в пакет для медицинских отходов класса Б",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 14,
+    cardOrder: 4,
+    cardQestion: "Сделать отворот пальцами правой руки на левой перчатке, касаясь её только с наружной стороны",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 14,
+    cardOrder: 5,
+    cardQestion: "Сделать отворот пальцами левой руки на правой перчатке, касаясь её только с наружной стороны",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 14,
+    cardOrder: 6,
+    cardQestion: "Снять перчатку с левой руки, заведя правую руку под отворот",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 14,
+    cardOrder: 7,
+    cardQestion: "Вывернуть её наизнанку",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 14,
+    cardOrder: 8,
+    cardQestion: "Держать снятую с левой руки перчатку в правой руке",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 14,
+    cardOrder: 9,
+    cardQestion: "Взять перчатку левой рукой за отворот на правой руке с внутренней стороны.",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 14,
+    cardOrder: 10,
+    cardQestion: "Снять перчатку с правой, руки выворачивая её наизнанку",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 14,
+    cardOrder: 11,
+    cardQestion: "Поместить перчатки в пакет для отходов класса Б.",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  {
+    cardID: 14,
+    cardOrder: 12,
+    cardQestion: "Обработать руки гигиеническим способом (кожным антисептиком)",
+    cardAction: "Выполнить",
+    cardExemple: ""
+  },
+  
 ];
 
