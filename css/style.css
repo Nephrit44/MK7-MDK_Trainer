@@ -91,13 +91,7 @@ h1 {
 }
 
 .cardQestions {
-    margin: 0 auto;
-    color: #000;
-    display: flex;
-    gap: 20px;
-    flex-wrap: wrap;
-    justify-content: center;
-    max-width: 700px;
+    margin-bottom: 10px;
 }
 
 .cardQestions--inline {
@@ -106,19 +100,14 @@ h1 {
 }
 
 .qestions__item {
-    padding: 6px 4px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
     cursor: pointer;
-    background-color: #dcecf5;
-    width: 150px;
-    text-align: center;
     font-size: 12px;
+    background-color: #fff9ec;    
 }
 
-.qestions__item--inline {
-    width: auto;    
-    text-align: left;
+.qestions__item:active {
+    background-color: rebeccapurple;
+    color: #fff;
 }
 
 .succes {
@@ -129,23 +118,9 @@ h1 {
     background-color: rgb(255, 163, 163);
 }
 
-.lable {
-    font-size: 10px;
-}
-
-.changeStyle {
-    font-size: 12px;
-}
-
 .btnChek {
     display: block;
     margin: 0 auto;
-    margin-top: 10px;
-    padding: 10px 20px;
-    background-color: #ffd82b;
-    outline: none;
-    border: 1px solid #c9a60b;
-    border-radius: 4px;
     cursor: pointer;
     transition: all .3s;
 }
@@ -156,17 +131,4 @@ h1 {
 
 .visible {
     display: none;
-}
-
-@media (width < 720px) {
-    .cardQestions {
-        padding: 15px;
-        gap: 10px;
-    }
-    .qestions__item {
-        width: 100%;
-    }
-    .lable {
-        display: none;
-    }
 }

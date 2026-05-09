@@ -8,8 +8,6 @@ const btnChek = document.querySelector('.btnChek');
 const chekTitle = document.querySelector('.cheklist-title');
 const elemHeader = document.querySelector('.header');
 
-const btnChangeStyle = document.querySelector('.changeStyle');
-
 cardCollection.forEach((element) => {
     let newElement = getTemplateCard.content.cloneNode(true); //Клонируем
     newElement.querySelector('.cheklist__item').setAttribute('cardid', element.card);
@@ -109,10 +107,3 @@ function dragDrop() {
     });
 };
 
-btnChangeStyle.addEventListener('click', function () {
-    const qestions__item = document.querySelectorAll('.qestions__item');
-    elementCardQestion.classList.toggle('cardQestions--inline');
-    qestions__item.forEach((element) => {
-        element.classList.toggle('qestions__item--inline');
-    })
-})
