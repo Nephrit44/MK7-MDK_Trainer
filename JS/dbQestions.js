@@ -739,7 +739,7 @@ const dbQestions = [
   {
     cardID: 6,
     cardOrder: 26,
-    cardQestion: "",
+    cardQestion: "Провести дезинфекцию отходов на месте аварии",
     cardAction: "Выполнить",
     cardExemple: "Сообщить об аварийной ситуации руководителю подразделения"
   },
@@ -1046,7 +1046,7 @@ const dbQestions = [
   {
     cardID: 8,
     cardOrder: 13,
-    cardQestion: "",
+    cardQestion: "Врач-инфекционист оформляет акт аварийной ситуации в 3 экземплярах и карту эпидемиологического наблюдения",
     cardAction: "Выполнить",
     cardExemple: "Врач-инфекционист оформляет акт аварийной ситуации в 3 экземплярах и карту эпидемиологического наблюдения"
   },
@@ -2420,13 +2420,6 @@ const dbQestions = [
   {
     cardID: 18,
     cardOrder: 1,
-    cardQestion: "",
-    cardAction: "Сказать",
-    cardExemple: ""
-  },
-  {
-    cardID: 18,
-    cardOrder: 2,
     cardQestion: "Подготовить необходимое оснащение",
     cardAction: "Выполнить",
     cardExemple: ""
