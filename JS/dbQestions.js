@@ -2490,139 +2490,132 @@ const dbQestions = [
   {
     cardID: 18,
     cardOrder: 11,
-    cardQestion: "Поместить бахилы в отходы класса В",
+    cardQestion: "Обработать руки в перчатках в емкости с дезинфицирующим раствором гигиеническим способом",
     cardAction: "Выполнить",
     cardExemple: ""
   },
   {
     cardID: 18,
     cardOrder: 12,
-    cardQestion: "Обработать руки в перчатках в емкости с дезинфицирующим раствором гигиеническим способом",
-    cardAction: "Выполнить",
-    cardExemple: ""
-  },
-  {
-    cardID: 18,
-    cardOrder: 13,
     cardQestion: "Отогнуть защитную планку на комбинезоне, расстегнуть молнию до конца, осторожно снять капюшон, выворачивая наизнанку, снять поочередно рукава комбинезона, выворачивая их наизнанку, снять поочередно брюки комбинезона, выворачивая их наизнанку",
     cardAction: "Выполнить",
     cardExemple: ""
   },
   {
     cardID: 18,
-    cardOrder: 14,
+    cardOrder: 13,
     cardQestion: "Поместить комбинезон в отходы класса В",
     cardAction: "Выполнить",
     cardExemple: ""
   },
   {
     cardID: 18,
-    cardOrder: 15,
+    cardOrder: 14,
     cardQestion: "Обработать руки в перчатках в емкости с дезинфицирующим раствором гигиеническим способом",
     cardAction: "Выполнить",
     cardExemple: ""
   },
   {
     cardID: 18,
-    cardOrder: 16,
+    cardOrder: 15,
     cardQestion: "Снять очки движением вперед, вверх и назад за голову",
     cardAction: "Выполнить",
     cardExemple: ""
   },
   {
     cardID: 18,
-    cardOrder: 17,
+    cardOrder: 16,
     cardQestion: "Поместить очки в дезинфицирующий раствор",
     cardAction: "Выполнить",
     cardExemple: ""
   },
   {
     cardID: 18,
-    cardOrder: 18,
+    cardOrder: 17,
     cardQestion: "Обработать руки в перчатках в емкости с дезинфицирующим раствором гигиеническим способом",
     cardAction: "Выполнить",
     cardExemple: ""
   },
   {
     cardID: 18,
-    cardOrder: 19,
+    cardOrder: 18,
     cardQestion: "Снять респиратор: снять нижнюю резинку респиратора через голову, затем верхнюю",
     cardAction: "Выполнить",
     cardExemple: ""
   },
   {
     cardID: 18,
-    cardOrder: 20,
+    cardOrder: 19,
     cardQestion: "Поместить респиратор в отходы класса В",
     cardAction: "Выполнить",
     cardExemple: ""
   },
   {
     cardID: 18,
-    cardOrder: 21,
+    cardOrder: 20,
     cardQestion: "Обработать руки в перчатках в емкости с дезинфицирующим раствором гигиеническим способом",
     cardAction: "Выполнить",
     cardExemple: ""
   },
   {
     cardID: 18,
-    cardOrder: 22,
+    cardOrder: 21,
     cardQestion: "Снять шапочку",
     cardAction: "Выполнить",
     cardExemple: ""
   },
   {
     cardID: 18,
-    cardOrder: 23,
+    cardOrder: 22,
     cardQestion: "Поместить шапочку в отходы класса В",
     cardAction: "Выполнить",
     cardExemple: ""
   },
   {
     cardID: 18,
-    cardOrder: 24,
+    cardOrder: 23,
     cardQestion: "Обработать руки в перчатках в емкости с дезинфицирующим раствором гигиеническим способом",
     cardAction: "Выполнить",
     cardExemple: ""
   },
   {
     cardID: 18,
-    cardOrder: 25,
+    cardOrder: 24,
     cardQestion: "Снять внутреннюю пару перчаток",
     cardAction: "Выполнить",
     cardExemple: ""
   },
   {
     cardID: 18,
-    cardOrder: 26,
+    cardOrder: 25,
     cardQestion: "Поместить перчатки в отходы класса В",
     cardAction: "Выполнить",
     cardExemple: ""
   },
   {
     cardID: 18,
-    cardOrder: 27,
+    cardOrder: 26,
     cardQestion: "Обработать руки гигиеническим способом",
     cardAction: "Выполнить",
     cardExemple: ""
   },
   {
     cardID: 18,
-    cardOrder: 28,
+    cardOrder: 27,
     cardQestion: "Снять рабочую одежду",
     cardAction: "Выполнить",
     cardExemple: ""
   },
   {
     cardID: 18,
-    cardOrder: 29,
+    cardOrder: 28,
     cardQestion: "Принять душ",
     cardAction: "Выполнить",
     cardExemple: ""
   },
   {
     cardID: 18,
-    cardOrder: 30,
+    cardOrder: 29,
     cardQestion: "Надеть чистый комплект одежды",
     cardAction: "Выполнить",
     cardExemple: ""
