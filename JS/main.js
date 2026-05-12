@@ -35,8 +35,6 @@ function randomizer(elementForRandomize) {
     }
 }
 
-randomizer(elementForChekList);
-
 function loadChekList(cardid, dataBase, cheklistTitle) {
     chekTitle.textContent = cheklistTitle;
     chekTitle.classList.remove('visible');
