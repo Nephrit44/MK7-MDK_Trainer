@@ -51,29 +51,25 @@ h1 {
 .cheklistCollection {
     display: flex;
     justify-content: center;
-    gap: 5px;
+    gap: 10px;
     flex-wrap: wrap;
 }
 
 .cheklist__item {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    padding: 10px;
-    width: 150px;
-    height: 150px;
-    border: 1px solid rgb(255, 179, 117);
-    border-radius: 4px;
-    font-size: 12px;
+    min-height: 200px;
+    flex-grow: 1;
     transition: all .3s;
-    background-color: #dcecf5;
     cursor: pointer;
-    font-weight: 300;
 }
 
 .cheklist__item:hover {
-    transform: scale(1.2);
+    color: #fff !important;
+    background-color: RGBA(var(--bs-success-rgb), var(--bs-bg-opacity, 1)) !important;
+}
+
+.cheklist__item:active {
+    color: #fff !important;
+    background-color: RGBA(var(--bs-success-rgb), var(--bs-bg-opacity, 1)) !important;
 }
 
 .cheklist-title {
@@ -102,7 +98,7 @@ h1 {
 .qestions__item {
     cursor: pointer;
     font-size: 12px;
-    background-color: #fff9ec;    
+    background-color: #fff9ec;
 }
 
 .qestions__item:active {

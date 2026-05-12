@@ -10,13 +10,17 @@ const elemHeader = document.querySelector('.header');
 
 cardCollection.forEach((element) => {
     let newElement = getTemplateCard.content.cloneNode(true); //Клонируем
-    newElement.querySelector('.cheklist__item').setAttribute('cardid', element.card);
-    newElement.querySelector('.cheklist__item').textContent = element.cardTitle; //Название карточки
+    newElement.querySelector('.card-body').setAttribute('cardid', element.card);
+    newElement.querySelector('.card-header').setAttribute('cardid', element.card);
+    newElement.querySelector('.card-text').setAttribute('cardid', element.card);
+    newElement.querySelector('.card-header').textContent = `Чек-лист: ${element.card}`;
+    newElement.querySelector('.card-text').textContent = element.cardTitle;
     elementForChekList.append(newElement);
 });
 
 document.addEventListener('click', function (evt) {
-    if (evt.target.classList.contains('cheklist__item')) {
+    console.log(evt.target)
+    if (evt.target.classList.contains('card-body') || evt.target.classList.contains('card-header') || evt.target.classList.contains('card-text')) {
         elementForChekList.classList.add('visible');
         loadChekList(evt.target.getAttribute('cardid'), dbQestions, evt.target.textContent);
     }

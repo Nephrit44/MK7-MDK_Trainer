@@ -14,12 +14,13 @@
 
     <header class="header visible">
         <h1 class="cheklist-title"></h1>
-        <p class="cheklist-subtitle">задание: Перетаскивайте элементы, что бы манипуляции шли по-порядку, как указано в Чек-листе<br>
+        <p class="cheklist-subtitle">задание: Перетаскивайте элементы, что бы манипуляции шли по-порядку, как указано в
+            Чек-листе<br>
             Нажатие кнопки "Проверить", зелёным подсвечивается правильный порядок выполнения, красный - не правильный.
         </p>
     </header>
 
-    <ul class="cheklistCollection"></ul>
+    <div class="cheklistCollection"></div>
 
     <ol class="cardQestions list-group list-group-numbered" id="draggableList"></ol>
 
@@ -27,9 +28,14 @@
 
 </body>
 
-
 <template id="card">
-    <li class="cheklist__item"></li>
+    <div class="card text-bg-light mb-3 cheklist__item" style="max-width: 18rem;">
+        <div class="card-header">Заголовок</div>
+        <div class="card-body">
+            <p class="card-text">Несколько быстрых примеров текста для построения на основе Заголовок карточки и
+                составления основной части содержимого карточки.</p>
+        </div>
+    </div>
 </template>
 
 <template id="qestions">
